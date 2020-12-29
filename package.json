@@ -11,7 +11,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "http://santiagoarangog.github.io/app-react-sag",
+  "homepage": "https://santiago9606.github.io/app-react-sag",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
